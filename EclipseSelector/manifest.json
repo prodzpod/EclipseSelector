@@ -1,0 +1,10 @@
+{
+	"name": "EclipseSelector",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/prodzpod/EclipseSelector",
+	"description": "Select Eclipse levels by left clicking. Highly configurable.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2103",
+		"RiskofThunder-HookGenPatcher-1.2.3"
+	]
+}
